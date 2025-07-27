@@ -1,4 +1,4 @@
-# 🧠 NeoBot – AI-Powered Chat Assistant
+# 🧠GenBot-AI-Powered-Response-Generator
 
 **NeoBot** is an intelligent and interactive chatbot built using **ReactJS** and **Vite**, powered by advanced AI (Gemini API). It is designed to simulate human-like conversations and respond instantly with smart replies.
 
